@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Theja 👋
 
-<!--
-**GANDHAPUDITHEJA/GANDHAPUDITHEJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate (B.Tech, G. Pulla Reddy Engineering College) building backend systems and AI applications: RAG pipelines, multi-agent systems and knowledge graphs.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, Java, C, SQL
+- **Backend:** FastAPI, Flask, Spring Boot, REST APIs
+- **AI/ML:** RAG, LangChain, OpenAI Agents SDK, Embeddings, Semantic Search
+- **Databases:** Neo4j, MongoDB, ChromaDB, MS SQL Server
+- **Tools:** Git, Docker, AWS, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **RAG Pipeline for PDF Q&A**: LangChain + ChromaDB + Sentence-Transformers + Groq
+- **AI Customer Support Multi-Agent System**: OpenAI Agents SDK, Flask, React
+- **Smart Attendance App**: Kotlin, FastAPI face recognition, Spring Boot, MongoDB
+
+## Experience & certifications
+- IoT-DE Intern at TCS: 2D CAD to 3D point clouds stored in Neo4j AuraDB
+- Neo4j Certified Professional · Oracle Agentic AI Certified Foundations Associate
+
+📫 gandhapuditeja@gmail.com · [LinkedIn](https://linkedin.com/in/gandhapuditheja)
